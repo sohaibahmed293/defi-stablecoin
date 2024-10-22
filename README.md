@@ -1,3 +1,8 @@
+# Defi Stablecoin
+
+# About
+A decentralized stablecoin which used WETH or WBTC as a collateral for deposits and is pegged to USD.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
